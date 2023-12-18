@@ -1,3 +1,8 @@
+<div style="text-align:center;">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="Centered Image">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Ashan Madhuwantha</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
