@@ -5,13 +5,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashan Madhuwantha</h1>
-
----
-
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashan-madhuwantha&label=Profile%20views&color=0e75b6&style=flat" alt="ashan-madhuwantha" /> </p>
-
+---
 
 - 🌱 I’m currently learning **OOP with Java**
 
