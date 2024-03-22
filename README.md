@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Marn Stack**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 🤝 I’m Undergraduate at **SLIIT**
 
