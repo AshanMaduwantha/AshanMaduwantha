@@ -27,11 +27,6 @@
 <a href="https://www.instagram.com/ashan_madhuwantha__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashan_maduwantha__" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashan-madhuwantha-990557283/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="blank">
-  <img align="center" src="ACTUAL-DIRECT-IMAGE-URL" alt="LinkedIn" height="40" width="50" />
-</a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
