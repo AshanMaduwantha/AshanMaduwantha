@@ -28,8 +28,9 @@
 <a href="https://www.linkedin.com/in/ashan-madhuwantha-990557283/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" width="50" />
+  <img align="center" src="ACTUAL-DIRECT-IMAGE-URL" alt="LinkedIn" height="40" width="50" />
 </a>
+
 
 </p>
 
